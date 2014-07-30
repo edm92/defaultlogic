@@ -13,8 +13,8 @@ Both examples are documented in the class files
 
     defaultlogic / src / main / java / be / fnord / DefaultLogic / DefaultLogicExample
 
-* **Accumulation Example**
-> *Written by Evan Morrison, accumulation demonstrates a method for conducting belief update across effects annotated to a business process model. The procedure is documented in research papers by Hinge et. al. 2009, Morrison et. al. 2011, 2014*
+* **Abductive Example**
+> *Written by Evan Morrison, an abductive reasoner, will take in a knowledgebase, some possible actions effects (facts) and an observation. The reasoner will then find possible actions that could be performed together.*
 
 * **Default Logic Example**
 > *Written by Evan Morrison, a default logic reasoner based on Reiters Default logic, this is a lightweight and incomplete implementation of a default logic reasoner. No decision procedure has been documented for this tool and it will only produce results for a subset of default logic problems.*
