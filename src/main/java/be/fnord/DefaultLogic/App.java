@@ -1,7 +1,8 @@
 package be.fnord.DefaultLogic;
 
 /**
- * Hello world!
+ * Starting point
+ * Loads the examples
  *
  */
 public class App 

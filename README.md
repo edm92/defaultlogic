@@ -1,6 +1,26 @@
 defaultlogic
 ============
 
+To my knowledge, the worlds only opensource default logic reasoner written in Java. If there are others please let me know. 
+http://www.fnord.be.
+
+
+Main launcher is  defaultlogic / src / main / java / be / fnord / DefaultLogic / App.java 
+
+Both examples are documented in the class files 
+
+    defaultlogic / src / main / java / be / fnord / DefaultLogic / AbductiveExample
+
+    defaultlogic / src / main / java / be / fnord / DefaultLogic / DefaultLogicExample
+
+* **Accumulation Example**
+> *Written by Evan Morrison, accumulation demonstrates a method for conducting belief update across effects annotated to a business process model. The procedure is documented in research papers by Hinge et. al. 2009, Morrison et. al. 2011, 2014*
+
+* **Default Logic Example**
+> *Written by Evan Morrison, a default logic reasoner based on Reiters Default logic, this is a lightweight and incomplete implementation of a default logic reasoner. No decision procedure has been documented for this tool and it will only produce results for a subset of default logic problems.*
+
+
+============
 
 This tool uses the Orbital Java Library downloaded from 
 http://symbolaris.com/download.html
