@@ -22,35 +22,16 @@ Both examples are documented in the class files
 
 ============
 
+This tool is licensed under the Apache 2.0 License - as indicted in the License file. The tool does leverage other licenses listed below. 
+
+============
+
 This tool uses the Orbital Java Library downloaded from 
 http://symbolaris.com/download.html
 
     Copyright (c) 1996-2009 Andre Platzer. All rights reserved.
 
-License Agreement:
+License Agreement is in the license file. 
 
-This software is the confidential and proprietary information
-of Andre Platzer. ("Confidential Information"). You
-shall not disclose such Confidential Information and shall use
-it only in accordance with the terms of the license agreement
-you entered into.
 
-NO WARRANTIES ARE GIVEN for any function (express or implied) these
-files and documents might or might not have. The licenser shall never
-be liable for any damage suffered by licensee or any third party as
-a result of using these files or derivatives.
-
-You are not to modify, adapt, translate, reverse engineer, decompile,
-disassemble, or reverse-engineer the product or attempt to discover
-its source code. You agree to notify your employees and agents who
-may have access to the software of the restrictions contained in this
-Agreement and to insure their compliance with these restrictions.
-
-Distribution and use of these files and documents is prohibited unless
-you make sure that:
-  (o) this License Agreement and Copyright notice is contained,
-  (o) the files are not modified,
-  (o) you clearly indicate that you use our files, and
-  (o) you give credit to Andre Platzer in all work resulting from the
-      use of these files.
 
