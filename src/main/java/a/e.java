@@ -89,6 +89,7 @@ public class e {
     public static final String OR = "|";
     public static final String NOT = "~";
     public static final String IMP = "->";
+    public static final String IMPLIES = IMP;
 
     public static final String EMPTY_EFFECT = "eeee";
     public static final String EMPTY_FORMULA = EMPTY_EFFECT;
