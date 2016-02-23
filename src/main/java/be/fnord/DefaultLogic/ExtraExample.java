@@ -1,5 +1,5 @@
 /**
- * A special example
+ * A special example for a special someone
  * 
  * Cosmological considerations of penguins
  * 
