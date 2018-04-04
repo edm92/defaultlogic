@@ -98,7 +98,7 @@ public class DefaultReasoner {
 	// Process world and rules
 	public HashSet<String> getPossibleScenarios() {
 		// WorldSet _results = new WorldSet();
-
+//		a.e.println("World: " + world.getFormula());
 		// First step - make a WFF of the world
 		WFF myWorld = new WFF(world.getWorld());
 		WFF myOriginalWorld = new WFF(world.getWorld());
@@ -118,6 +118,9 @@ public class DefaultReasoner {
 			WFF _s = new WFF(s);
 			_validExtensions.add(_s.getClosure());
 		}
+		
+		// Check if each extension fits with the world. 
+		
 
 		// HashSet<String> maxLenExtensions =
 		// rules.getLongestExtensions(_validExtensions);

@@ -36,7 +36,8 @@ public class RuleSet {
 
 			boolean overall = true;
 			for (DefaultRule d : rules) {
-				// a.e.println("Trying: " + currentExtension.getFormula());
+//				 a.e.println("Trying: " + currentExtension.getFormula() );
+				a.e.println("Trying " + world.getFormula());
 				// Test if prerequisite is fired
 				WFF preq = new WFF(d.getPrerequisite());
 				WFF just = new WFF(d.getJustificatoin());
